@@ -11,12 +11,10 @@
 <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=Linux&logoColor=bloack"/>
 
 ### Tools
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 ### Interest
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=black"/>
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=black"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=black"/><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=black"/>
 
 
 
